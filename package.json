@@ -11,6 +11,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
     "vue": "^3.4.29"
   },
   "devDependencies": {
